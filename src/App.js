@@ -13,7 +13,15 @@ function App() {
           <Dictionary defaultKeyword="word" />
         </main>
         <footer className=" App-footer text-center">
-          Coded by Elizabeth Tutewiler
+          Open source{" "}
+          <a
+            href="https://github.com/libbwith2bs/dictionary-project"
+            target="_blank"
+            rel="noreferrer"
+          >
+            code
+          </a>{" "}
+          by Elizabeth Tutewiler
         </footer>
       </div>
     </div>
